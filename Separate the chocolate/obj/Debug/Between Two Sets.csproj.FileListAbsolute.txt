@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day5\Separate the chocolate\bin\Debug\Separate the chocolate.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day5\Separate the chocolate\bin\Debug\Separate the chocolate.exe
+C:\Users\Akram\Desktop\HackerRank\Day5\Separate the chocolate\bin\Debug\Separate the chocolate.pdb
+C:\Users\Akram\Desktop\HackerRank\Day5\Separate the chocolate\obj\Debug\Between Two Sets.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day5\Separate the chocolate\obj\Debug\Between Two Sets.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day5\Separate the chocolate\obj\Debug\Separate the chocolate.exe
+C:\Users\Akram\Desktop\HackerRank\Day5\Separate the chocolate\obj\Debug\Separate the chocolate.pdb
